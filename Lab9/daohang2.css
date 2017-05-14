@@ -1,0 +1,40 @@
+body{
+	background-image:url(image/bj.png);
+	background-repeat:no-repeat;
+}
+.a{
+	background-image:url(image/header.png);
+	background-repeat:no-repeat;
+    width:180px;
+    height:70px;
+    text-align: center;
+}
+ul{
+    width:140px;
+    height:35px;
+    list-style-type:none;
+    padding-left:35px;
+}
+li{
+    background-image:url(image/left_nav_item.gif);
+    background-repeat:no-repeat;
+    background-size:100%;
+    text-align:center;
+    width:140px;
+    height:35px;
+    padding-top:5px;
+    margin-top:10px;
+}
+.c{
+    background-image:url(image/lvbiaoti.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+}
+.b{
+    width:140px;
+    height:35px;
+}
+a{
+    text-decoration:none;
+    color:#999999;
+
