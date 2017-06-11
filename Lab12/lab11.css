@@ -1,0 +1,29 @@
+*{
+	margin:0;
+	padding:0;
+	border:0;
+}
+.a{
+	width:220px;
+	height:200px;
+    border:1px solid #C0C0C0;
+    text-align:center;
+    margin-left:3px;
+    float:left;
+}
+img{
+	opacity:0.5;
+	width:200px;
+	height:160px;
+	border:1px solid #bebebe;
+}
+.b{
+	width:200px;
+	height:160px;
+	line-height:30px;
+
+}
+img:hover{
+	border:1px solid #333333;
+	opacity:1;
+}
