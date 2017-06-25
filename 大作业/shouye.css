@@ -1,0 +1,210 @@
+*{
+	padding:0;
+	margin:0;
+    border:0;
+}
+ul{
+	list-style-type:none;
+}
+a{
+	text-decoration:none;
+}
+body{
+	width:1355px;
+	height:1800px;
+	background-image:url(images/beijing.png);
+	background-size:1355px 1500px;
+	background-position:bottom;
+	background-repeat:no-repeat;
+}
+
+
+
+
+#jiu{
+    color:green;
+}
+
+
+.top{
+	width:1355px;
+	height:255px;
+	background-image:url(images/banner.jpg);
+	background-size:1355px 255px;
+}
+.logo{
+	width:170px;
+	height:180px;
+    margin-left:100px;
+	float:left;
+	background-image:url(images/logo.png);
+	background-size:100%;
+	padding-right:10px;
+}
+.bei{
+    float:left;
+    text-align:center;
+    font-size:80px;
+    font-weight:bold;
+    font-family:'华文行楷';
+    width:70px;
+    height:100px;
+    margin-top:60px;
+}
+.zhai{
+    float:left;
+    text-align:center;
+    font-size:80px;
+    font-weight:bold;
+    font-family:'华文行楷';
+    width:70px;
+    height:100px;
+    margin-top:40px;
+}
+.shuoming{
+    float:left;
+    font:bold 20px '华文楷体';
+    color:#0000FF;
+    margin-top:150px;
+}
+
+
+
+
+
+
+
+
+.center{
+
+}
+
+
+
+
+
+
+.biaoti{
+	width:1355px;
+	height:45px;
+	clear:left;
+    background-image:url(images/biaoti.png);
+}
+
+
+
+
+.daohang{
+	float:left;
+	width:1000px;
+	text-align:center;
+}
+.daohang li{
+	display:inline;
+}
+.daohang a{
+	font:bold 35px '华文楷体';
+}
+
+
+
+.sousuo{
+	margin-top:10px;
+	float:left;
+	width:350px;
+}
+.text{
+    height:30px;
+}
+.xunmi{
+	width:40px;
+    height:30px;
+    background-color:#1E90FF;
+    position:relative;
+    right:7px;
+    font-size:18px;
+    font-family:'华文楷体';
+}
+
+
+
+
+.one{
+	clear:left;
+	width:800px;
+	height:350px;
+	margin-left:230px;
+	margin-top:20px;
+	text-align:center;
+	background-image:url(images/news_bg.png);
+	background-size:800px 350px;
+	padding-top:20px;
+
+}
+.one .a{
+	margin-bottom:20px;
+	font:bold 40px '华文行楷';
+
+}
+.one .b{
+	font-size:20px;
+	font-family:'华文楷体';
+	color:#DAA520;
+}
+.one .b font{
+	font-weight:bold;
+}
+
+
+
+
+.two{
+    width:1300px;
+    margin-top:40px;
+}
+
+.f{
+	float:left;
+	width:130px;
+	height:900px;
+	background-image:url(images/biankuang.png);
+	background-size:130px 910px;
+	padding-top:10px;
+	margin-left:32px;
+}
+
+.c{
+	width:110px;
+    height:110px;
+    margin-left:10px;
+}
+.c img{
+	width:110px;
+    height:110px;
+}
+
+
+.d{
+    width:150px;
+    height:400px;
+    margin-top:20px;
+}
+.e{
+	float:left;
+	font-size:30px;
+	font-family:'华文楷体';
+	color:green;
+	margin-left:20px;
+
+}
+
+
+
+.bottom{
+	clear:left;
+	width:1355px;
+	height:100px;
+	padding-top:60px;
+	text-align:center;
+	font-weight:bold;
+}

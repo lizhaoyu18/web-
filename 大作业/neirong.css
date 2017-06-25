@@ -1,0 +1,247 @@
+*{
+	padding:0;
+	margin:0;
+    border:0;
+}
+ul{
+	list-style-type:none;
+}
+a{
+	text-decoration:none;
+}
+body{
+	width:1355px;
+	height:1300px;
+	background-image:url(images/beijing.png);
+	background-size:1355px 1300px;
+	background-position:bottom;
+	background-repeat:no-repeat;
+
+}
+
+
+
+
+.jiu{
+    color:green;
+}
+
+
+.top{
+	width:1355px;
+	height:255px;
+	background-image:url(images/banner.jpg);
+	background-size:1355px 255px;
+}
+.logo{
+	width:170px;
+	height:180px;
+    margin-left:100px;
+	float:left;
+	background-image:url(images/logo.png);
+	background-size:100%;
+	padding-right:10px;
+}
+.bei{
+    float:left;
+    text-align:center;
+    font-size:80px;
+    font-weight:bold;
+    font-family:'华文行楷';
+    width:70px;
+    height:100px;
+    margin-top:60px;
+}
+.zhai{
+    float:left;
+    text-align:center;
+    font-size:80px;
+    font-weight:bold;
+    font-family:'华文行楷';
+    width:70px;
+    height:100px;
+    margin-top:40px;
+}
+.shuoming{
+    float:left;
+    font:bold 20px '华文楷体';
+    color:#0000FF;
+    margin-top:150px;
+}
+
+
+
+
+
+.center
+
+
+.biaoti{
+    width:1355px;
+    height:45px;
+    clear:left;
+    background-image:url(images/biaoti.png);
+}
+
+
+
+
+.daohang{
+    float:left;
+    width:1000px;
+    text-align:center;
+}
+.daohang li{
+    display:inline;
+}
+.daohang a{
+    font:bold 35px '华文楷体';
+}
+
+
+
+.sousuo{
+    margin-top:10px;
+    float:left;
+    width:350px;
+}
+.text{
+    height:30px;
+}
+.xunmi{
+    width:40px;
+    height:30px;
+    background-color:#1E90FF;
+    position:relative;
+    right:7px;
+    font-size:18px;
+    font-family:'华文楷体';
+}
+
+
+
+
+.one{
+    width:1355px;
+    clear:left;
+    font-size:20px;
+    font-weight:bold;
+    color:blue;
+    padding-left:200px;
+    margin-top:20px;
+}
+
+
+
+
+.two{
+    width:1355px;
+    height:800px;
+    margin-top:30px;
+}
+
+
+.left{
+    width:800px;
+    height:800px;
+    float:left;
+    background-image:url(images/biankuang.png);
+    background-size:800px 800px;
+    margin-left:50px;
+}
+.left .no1{
+    font:bold 50px '华文行楷';
+    color:green;
+    text-align:center;
+    margin-top:20px;
+}
+.left  .no2{
+    width:500px;
+    font:bold 20px '华文楷体';
+    color:#7FFF00;
+    line-height:40px;
+    margin-top:40px;
+    margin-left:130px;
+}
+.left p{
+    text-indent:2em;
+}
+
+
+
+
+.right{
+    float:left;
+    width:300px;
+    height:800px;
+    margin-left:100px;
+}
+
+
+.biao{
+    width:300px;
+    height:500px;
+
+
+}
+
+
+
+
+.biao .a{
+    width:200px;
+    height:200px;
+    margin-left:50px;
+}
+
+
+.biao img{
+    width:200px;
+    height:200px;
+}
+
+
+
+.biao .b{
+    width:200px;
+    height:320px;
+    background-image:url(images/show_bg.png);
+    background-size:200px 320px;
+    background-repeat:no-repeat;
+    background-position:left;
+    padding-top:20px;
+    margin-left:50px;
+}
+.b ul{
+    list-style-image:url(images/before.png);
+    list-style-position:inside;
+}
+.b li{
+    line-height:35px;
+    font:bold 20px '华文楷体';
+    margin-left:40px;
+}
+.tu{
+    margin-top:50px;
+
+}
+.tu img{
+    width:300px;
+    height:260px;
+}
+
+
+
+
+
+
+
+
+.bottom{
+    clear:left;
+    width:1355px;
+    height:50px;
+    padding-top:60px;
+    text-align:center;
+    font-weight:bold;
+}

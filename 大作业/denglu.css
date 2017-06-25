@@ -1,0 +1,68 @@
+*{
+	padding:0;
+	margin:0;
+    border:0;
+}
+ul{
+	list-style-type:none;
+}
+a{
+	text-decoration:none;
+}
+
+.denglu{
+	background-image:url(images/denglu-beijing.jpg);
+	height:600px;
+	background-size:100%;
+}
+.biaodan{
+	width:302px;
+	height:152px;
+	border:3px solid  #7FFFD4 ;
+	padding-top:20px;
+	line-height:40px;
+	float:right;
+	margin-right:150px;
+	margin-top:200px;
+	background-color: #FFFFFF;
+    opacity: 0.6;
+
+}
+.biaodan td{
+	font-weight:bold;
+	font-size:30px;
+	font-family:'华文楷体';
+}
+#a{
+	text-align:center;
+}
+.biaodan .guilai{
+    width:50px;
+    height:42px;
+    background-image:url(images/denglu-duilai.jpg);
+    background-size:100%;
+    font-size:20px;
+    font-family:'华文楷体';
+}
+
+.wenzi1{
+	width:70px;
+	height:320px;
+    float:right;
+    font-size:60px;
+    font-weight:bold;
+    font-family:'华文行楷';
+    margin-right:30px;
+    margin-top:120px;
+}
+.wenzi2{
+	width:70px;
+	height:320px;
+	float:right;
+    font-size:60px;
+    font-weight:bold;
+    font-family:'华文行楷';
+    margin-right:200px;
+    margin-top:20px;
+
+}
